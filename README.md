@@ -13,4 +13,20 @@ A partir da base de dados http://vlado.fmf.uni-lj.si/pub/networks/data/mix/USAir
 ## 	:arrow_forward: Executar o projeto
 Para rodar o projeto, basta executar o arquivo 'main.py'. 
 
+## :camera: Imagens
+  <p align="center"> Exemplo do menor caminho entre as linhas aéreas 54 e 254</p>
+ <p align="center">
+  <img src="images/caminho-54-254.png">
+</p>
+ 
+  <p align="center"> Grafo do menor caminho entre as linhas aéreas 54 e 254 </p>
+ <p align="center">
+  <img src="images/grafo-54-254.png">
+</p>
+
+<p align="center"> Caso o vértice informado seja negativo ou maior que o número de vértices existentes ou a conexão não exista no banco de dados, aparecem os seguintes alertas </p>
+ <p align="center">
+  <img src="images/avisos.png">
+</p>
+ 
 - Projeto desenvolvido com Daniel Zamboni
